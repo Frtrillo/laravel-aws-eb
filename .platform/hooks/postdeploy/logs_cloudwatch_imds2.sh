@@ -1,3 +1,4 @@
+# Before uncommenting this please don't forget to also uncomment .ebextensions/02_logs_cloudwatch_imds2.config
 #!/bin/bash
 
 # echo '{
